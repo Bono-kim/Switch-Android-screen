@@ -16,4 +16,5 @@
 그리고 메인 화면의 java 파일로 들어가서 버튼하나를 지정해주고,버튼이 클릭될 경우에 인텐트를 만들어 다른 화면으로 전환되게끔 만들어줍니다.
 <hr><br>
 ●And when you run it, you can see the screen switch.
+<br>
 그리고 실행시키면 화면이 전환되는것을 볼수있습니다.
